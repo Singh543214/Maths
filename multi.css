@@ -1,0 +1,54 @@
+body{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-color: aquamarine;
+}
+h1{
+    font-size: 45px;
+    font-family:"Playfair Display", serif;
+    color: red;
+}
+input{
+    padding: 10px;
+    height: 5vh;
+    width: 30vh;
+    font-style: italic;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: aqua;
+    text-align: center;
+    border-radius: 2rem;
+    border: 1px solid red;
+    box-shadow:black;
+}
+button{
+    padding:10px;
+    margin-top: 10px;
+    height: 6vh;
+    width: 15vh;
+    color: blanchedalmond;
+    border-radius: 2rem;
+    background-color: black;
+    font-weight: bolder;
+    font-style: italic;
+}
+button:hover{
+    background-color: green;
+    height: 8vh;
+    width: 18vh;
+    border-radius: 3rem;
+    font-size: medium;
+}
+input:hover{
+    background-color:white;
+    height: 7vh;
+    width: 33vh;
+}
+#display{
+    margin-top: 20px;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold ;
+    color:navy;
+}
